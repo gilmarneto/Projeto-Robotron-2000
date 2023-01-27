@@ -73,5 +73,4 @@ function atualizaEstatisticas(peca) {
 /* função para alterar a cor do robô */
 function alteraCor(cor) {
     robo.src = ("img/" + cor + ".png");
-    console.log(robo.src);
 }
